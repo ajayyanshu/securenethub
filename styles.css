@@ -3,22 +3,29 @@ body {
     margin: 0;
     padding: 0;
     background-color: #f4f4f4;
+    color: #333;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
 }
 
 header {
     background-color: #333;
     color: white;
     padding: 10px 0;
-    text-align: center;
 }
 
 header h1 {
-    margin: 0;
+    display: inline;
 }
 
 nav ul {
     list-style: none;
     padding: 0;
+    display: inline;
+    float: right;
 }
 
 nav ul li {
@@ -31,12 +38,35 @@ nav ul li a {
     text-decoration: none;
 }
 
+#hero {
+    background: url('https://via.placeholder.com/1500x500') no-repeat center center/cover;
+    color: white;
+    text-align: center;
+    padding: 100px 0;
+}
+
+#hero .btn {
+    background-color: #ff6600;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
 main {
-    padding: 20px;
+    padding: 20px 0;
 }
 
 section {
     margin: 20px 0;
+}
+
+section h2 {
+    color: #333;
+}
+
+section p, section ul {
+    line-height: 1.6;
 }
 
 footer {
@@ -44,7 +74,7 @@ footer {
     color: white;
     text-align: center;
     padding: 10px 0;
-    position: fixed;
+    position: relative;
     width: 100%;
     bottom: 0;
 }

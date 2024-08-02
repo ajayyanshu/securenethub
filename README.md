@@ -1,6 +1,6 @@
 # SecureNetHub
 
-Welcome to SecureNetHub, your one-stop destination for cybersecurity knowledge and resources. This repository contains the code for the SecureNetHub website, designed to provide curated cybersecurity content and links to reputable resources for professionals and learners alike.
+Welcome to Secure NetHub, your one-stop destination for cybersecurity knowledge and resources. This repository contains the code for the Secure NetHub website, designed to provide curated cybersecurity content and links to reputable resources for professionals and learners alike.
 
 ## Table of Contents
 
@@ -14,7 +14,7 @@ Welcome to SecureNetHub, your one-stop destination for cybersecurity knowledge a
 
 ## Introduction
 
-At SecureNetHub, we aim to empower individuals and organizations by providing high-quality cybersecurity content. Our mission is to help professionals and learners stay informed and secure in the ever-evolving digital landscape.
+At Secure NetHub, we aim to empower individuals and organizations by providing high-quality cybersecurity content. Our mission is to help professionals and learners stay informed and secure in the ever-evolving digital landscape.
 
 ## Features
 

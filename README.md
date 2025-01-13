@@ -62,7 +62,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact with us
 
-For inquiries and support, please contact us at [info@securenethub.com](mailto:info@securenethub.com).
+For inquiries and support, please contact us at [info@securenethub.com](mailto:ajayyanshu@gmail.com).
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](#)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](#)
